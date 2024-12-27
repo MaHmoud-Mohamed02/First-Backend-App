@@ -24,6 +24,7 @@ Rails.application.routes.draw do
       end
     end
   end
+
   # Define the root path (optional)
   # root "posts#index"
 end
